@@ -82,9 +82,11 @@ The plan was for the lifeboats to tow them thirty miles to shore. But within hou
 
 If it sank, all those desperate people would swarm the lifeboats.
 
-Chamareys ordered the ropes cut, one by one, the lifelines were severed.
+Chaumareys didn't hesitate. Cut the ropes.
 
-As the raft drifted away, Chaumareys sat stiffly in the governor's boat, too cowardly to turn around.
+One by one, the lifelines were severed - each snap a death sentence for the people on the raft.
+
+As they drifted away, Chaumareys sat in the governor's boat with his back to them. He never looked back. Not once.
 
 The people on the raft watched in confusion as the boats grew smaller and smaller.
 
@@ -250,19 +252,17 @@ Ten survived.
 
 OUTRO
 
-Captain Chaumareys made it safely to Senegal. He was court-martialed and found guilty of negligence. He was sentenced to just three years in prison. Nobility has its privileges.
+Captain Chaumareys made it safely to Senegal. He was court-martialed and found guilty of negligence. He was sentenced to just three years in a comfortable cell.
 
-He served his time, returned to society, and lived another thirty years. He never spoke of the raft.
+Then he walked free, returned to his estate, and lived another thirty years. He died in his bed at 86 - half a century after abandoning 150 people to die.
 
-But the survivors did. Two of them wrote a book exposing everything - the incompetence, the abandonment, the vote. It became a national scandal that humiliated the new monarchy.
-
-Two years later, artist Theodore Gericault unveiled his painting, The Raft of the Medusa. But even he sanitized it. No cannibalism. No murders. No vote.
+He never apologized. He never faced the families. He never spoke of the raft.
 
 150 people boarded that raft.
 
 15 were rescued.
 
-And of those who died, not all were taken by the sea.
+And the man who cut the ropes? He outlived them all.
 
 
 — 
