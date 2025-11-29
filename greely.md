@@ -1,5 +1,15 @@
-Stranded in the Arctic — They Ate Each Other to Survive
+Stranded in the Arctic, They Turned on Each Other
+They Ate Him and Lied About It
+The Knife Marks Told a Different Story
+
+  - Image: Greely's face (historical photo), looking stern
+  - Text: "HE NEVER SPOKE"
+  - Mood: Mysterious, damning
+
 GREELY EXPEDITION - DRAFT 2
+
+“There are moments when the human body is so weak, it seems even hope has weight too heavy to bear.”
+“We live in a white silence that can crush the heart.”
 
 ---
 
@@ -26,7 +36,6 @@ ACT 1: THE MISSION
 In 1881, the United States sent 25 men to one of the most remote places on Earth.
 
 Leading them was civil war veteran Lieutenant Adolphus Greely. 
-Add character line about being shot and toughness
 
 His second-in-command was Frederick Kislingbury. His closest friend. Frederick's wife had just died and he had signed on to escape his grief.
 
@@ -47,8 +56,6 @@ ACT 2: ABANDONED
 
 A resupply vessel set out for Fort Conger but it hit an impenetrable wall of ice, the captain left a cache of supplies at Cape Sabine, 240 miles south, and turned back.
 
-Two long years passed in the freezing dark.
-
 In 1883, a second ship tried to reach them. 
 
 The captain pushed too far into the ice. The floes closed around the hull like a fist.
@@ -57,27 +64,27 @@ Wood splintered. Water rushed in. The ship was crushed and swallowed by the Arct
 
 All the supplies sank with it.
 
-Back at `Fort Conger, nothing reached Greeley. No ship. No rescue. No word.
+Back at Fort Conger, nothing reached Greeley or his men. No ship. No rescue. No word. Two brutal years dragged by in the unending cold.
 
-By August 1883, he understood: no one was coming/ By August 1883 he had lost all hope.
+Frederick proved himself to be a skilled hunter, this gained him popularity among the crew but still he could not earn the respect of Greeley. Mens faces lit up when they saw he had caught yet another seal. 
 
-Their food was nearly gone. Their only hope was to march south to Cape Sabine, where supplies had supposedly been left.
+But as the animals migrated for the winter, the hunters returned with empty hands and by August 1883, food supply ran low and all hope of rescue had been lost.
 
-240 miles through the Arctic. As winter approached. Better hook ending
 
 
 ACT 3: THE SLOW DEATH
 
-On August 9th, the 25 men abandoned Fort Conger and began the long walk south.
+On August 9th, the 25 men abandoned Fort Conger and began the 240 mile walk south to Cape Sabine, a known supply depot .
+
 The journey nearly killed them before they arrived.
 
 For weeks, they dragged boats across ice floes, battled freezing winds, watched the daylight disappear. When their boats became trapped, they drifted on the ice until currents finally carried them near Cape Sabine.
 
-When they finally reached the supply cache in October, what they found crushed them.
+When they finally reached the supply cache in October, what they found crushed them. - condense
 
 A few crates. Enough food for a few weeks. Not nearly enough to survive the winter.
 
-Greely rationed what little they had. Each day, portions grew smaller. Men's faces grew hollow.
+Greely was in charge of the rations. Each day, portions grew smaller. Men's faces grew hollow.
 
 They built a crude shelter from rocks and canvas, huddled together against temperatures that plunged to 40 below.
 
@@ -85,15 +92,17 @@ By January 1884, they were eating dog biscuits scraped from the bottom of crates
 
 On January 18th, Sergeant William Cross collapsed and died - the first to succumb to scurvy and starvation.
 
-Two men - George Rice and Joseph Ellison - volunteered to trek south to find another supply cache.
+Two men - George Rice and Joseph Ellison - bravely volunteered to lead a supply search party to trek south to find another supply cache.
 
 They found it. Four crates of preserved meat.
 
-But on the return journey, Joseph's legs became so frostbitten that they were forced to abandon the meat in the snow, George using all his strength to carry Joseph back to the camp.
+But on the return journey Ellisons legs became so frostbitten that the party abandoned the meat in order to carry Ellison back to safety.
 
 George went back to retrieve the meat.
 
 He never returned.
+
+He was found face down in the snow days later. Moral plunged. 
 
 Frederick watched as Greely's inner circle—the men who slept closest to him in the shelter—still had strength to move. To fish. To survive.
 
@@ -259,3 +268,6 @@ Some secrets are buried twice.
 ---
 
 END
+
+
+
