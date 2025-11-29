@@ -1,0 +1,17 @@
+{
+  "name": "yt-analytics",
+  "version": "1.0.0",
+  "description": "YouTube Analytics CLI Tool",
+  "main": "yt-analytics.js",
+  "bin": {
+    "yt-analytics": "./yt-analytics.js"
+  },
+  "scripts": {
+    "start": "node yt-analytics.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "dotenv": "^16.3.1",
+    "googleapis": "^140.0.0"
+  }
+}
