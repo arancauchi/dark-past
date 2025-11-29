@@ -24,17 +24,15 @@ ACT 1: THE MISSION
 
 In 1881, the United States sent 25 men to one of the most remote places on Earth.
 
-Their mission: establish a research station in the Arctic, record scientific observations, and claim the record for "Farthest North."
-
 Leading them was Lieutenant Adolphus Greely, a Civil War veteran who had been shot twice in battle and kept fighting.
 
 He was brave, disciplined, and utterly inexperienced in Arctic exploration.
 
-Among his officers was Lieutenant Frederick Kislingbury, Greely's second-in-command and closest friend. The two had served together for years.
+His second-in-command was Frederick Kislingbury — also his closest friend. The two had served together for years.
 
-The expedition sailed north aboard the steamship Proteus, arriving at Lady Franklin Bay in August.
+By the end, the knife marks on Frederick's body would tell a different story.
 
-They established Fort Conger on the northwest coast of Greenland, 600 miles from the nearest civilization, and unloaded enough provisions for two years.
+They sailed north and established Fort Conger, 600 miles from the nearest civilization, with enough provisions for two years.
 
 As autumn set in, the sun sank lower each day.
 
@@ -42,15 +40,7 @@ On October 15th, it set for the final time.
 
 For more than four months, they would live in total darkness.
 
-When the sun finally returned in March 1882, the men were eager to explore.
-
-Greely sent two teams north, competing to set a new record.
-
-Lieutenant James Lockwood and his team pushed four miles closer to the North Pole than any human before them.
-
-They had done it. The record belonged to America.
-
-Spirits were high. The mission was a success.
+When the sun returned, the mission was a success. They had broken records. Spirits were high.
 
 Now they just had to wait for the resupply ship to take them home.
 
@@ -60,29 +50,19 @@ ACT 2: ABANDONED
 
 The ship never came.
 
-A resupply vessel - the Neptune - set out for Fort Conger. But it encountered an impenetrable wall of ice.
-
-The captain made a decision: leave a cache of supplies at Cape Sabine, 240 miles south of the fort, and turn back.
+A resupply vessel set out for Fort Conger. But it hit an impenetrable wall of ice. The captain left a cache of supplies at Cape Sabine, 240 miles south, and turned back.
 
 Greely didn't know any of this. He waited through another dark winter, trusting that rescue would come the following summer.
 
 It didn't.
 
-In 1883, the Proteus returned to bring them home. But this time, the captain pushed too far into the ice.
-
-The floes closed around the hull like a fist.
+In 1883, a second ship tried to reach them. The captain pushed too far into the ice. The floes closed around the hull like a fist.
 
 Wood splintered. Water rushed in. The ship was crushed and swallowed by the Arctic Ocean.
 
 All the supplies sank with it.
 
-Back in the United States, Greely's wife Henrietta begged the military to send a rescue immediately.
-
-The War Department refused. A winter rescue was too expensive, too dangerous. They would wait until spring.
-
-Henrietta went to the newspapers, to Congress, to anyone who would listen. She accused the government of sentencing her husband to death.
-
-Congress debated. Committees formed. Months passed. And the Arctic winter closed in.
+Back home, Greely's wife Henrietta begged the military to send rescue. They refused — too dangerous. She went to newspapers, to Congress, accused them of sentencing her husband to death. They debated. Months passed. The Arctic winter closed in.
 
 At Fort Conger, Greely watched the summer fade into autumn.
 
@@ -90,7 +70,7 @@ No ship. No rescue. No word.
 
 By August 1883, he understood: no one was coming.
 
-Their food was nearly gone. Their only hope was to march south to Cape Sabine, where the Neptune had supposedly left supplies.
+Their food was nearly gone. Their only hope was to march south to Cape Sabine, where supplies had supposedly been left.
 
 240 miles through the Arctic. As winter approached.
 
