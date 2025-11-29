@@ -26,28 +26,15 @@ As always, viewer discretion is advised.
 
 ACT 1: THE WRECK
 
-One man put them on that raft. His name was Chaumareys.
+One man put them on that raft. In 1816, France's new king needed a captain for a convoy bound for Senegal. He chose Hugues Duroy de Chaumareys - a nobleman who hadn't commanded a ship in twenty years. That was enough to earn him the flagship Medusa.
 
-In 1816, France's new king appointed him to command a convoy bound for Senegal off the coast of Africa.
+His officers knew he was incompetent. He made sure they paid for it.
 
-Chaumareys hadn't captained a ship in twenty years. 
+135 people would die for that pride.
 
-But he was nobility. 
+When the new governor of Senegal pressured him to take a shortcut - a dangerous route hugging the African coast - Chaumareys agreed. But he refused to let his officers navigate. Instead, he handed the job to a passenger - a philosopher who had visited Africa once and never steered a ship in his life.
 
-That was enough to earn him the flagship Medusa.
-
-The experienced officers despised him immediately
-
-Chaumareys responded by humiliating them publicly by overruling their advice.
-
-A decision that would kill 135 people.
-
-
-  To prove himself, Chaumareys took a shortcut - a direct route hugging the African coast, through waters riddled with reefs.
-
-  But he refused to consult his officers. Instead, he trusted a philosopher who flattered him and claimed to know the coast - but had never navigated a ship.
-
-  The philosopher mistook a cloud for the coastline, and steered them straight into the most dangerous reef in the region.
+He mistook a cloud for the coastline, and steered them straight into the most dangerous reef in the region.
 
 On July 2nd, the Medusa struck the Bank of Arguin with a shuddering crack.
 
@@ -73,7 +60,7 @@ But on the third night trapped on the reef, a storm struck. Thunderous waves and
 
 The governor, the officers, and the aristocrats climbed into the lifeboats.
 
-Everyone else - 150 soldiers, sailors, and one woman - was told to board the hastily built raft.
+Everyone else - 150 soldiers, sailors, and one woman - was told to board the hastily built raft. Seventeen men refused. They took their chances with the wreck.
 
 By the time the last one climbed on, they were standing waist-deep in the ocean, the salt stinging their skin, the raft groaning under the weight
 
@@ -86,7 +73,7 @@ Chaumareys didn't hesitate. Cut the ropes.
 
 One by one, the lifelines were severed - each snap a death sentence for the people on the raft.
 
-As they drifted away, Chaumareys sat in the governor's boat with his back to them. He never looked back. Not once.
+A captain is supposed to be the last man off his ship. Chaumareys was in the first boat. As they rowed away, he sat with his back to the raft. He never looked back. Not once.
 
 The people on the raft watched in confusion as the boats grew smaller and smaller.
 
@@ -247,6 +234,8 @@ All fifteen were brought aboard.
 Five died within weeks, their bodies too broken to recover.
 
 Ten survived.
+
+Those seventeen men who stayed with the wreck? A salvage crew found three of them still alive - fifty-four days later.
 
 ---
 
