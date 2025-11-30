@@ -1,4 +1,4 @@
-TROMELIN ISLAND - DRAFT 2
+TROMELIN ISLAND - DRAFT 3
 
 TITLE: Abandoned Slaves Left to Die | The Forgotten Island of Tromelin
 
@@ -8,15 +8,16 @@ STORY STRUCTURE
 
 | Act | Beat | Emotion | Time |
 |-----|------|---------|------|
-| **COLD OPEN** | Governor's crime - refused rescue, angry at dead man | Rage + mystery | 0:00-0:30 |
-| **ACT 1** | The wreck - illegal cargo, captain's greed, half drown in chains | Dread | 0:30-2:30 |
-| **ACT 2** | The abandonment - French build boat, promise to return, sail away | Betrayal | 2:30-4:30 |
-| **ACT 3** | The refusal - Governor's rage, "let them rot" | Villain reveal (RAGE) | 4:30-5:30 |
-| **ACT 4** | Survival - 15 years compressed, the fire, failed rescues | Tension + hope crushed | 5:30-8:00 |
-| **ACT 5** | The rescue - only women survived, baby born on island | Emotional payoff | 8:00-9:30 |
-| **OUTRO** | The crime - no consequences, Condorcet's condemnation | Anger + reflection | 9:30-10:30 |
+| **COLD OPEN** | Stacked hooks: cargo, drowning, villain tease, men/women mystery | Dread + mystery | 0:00-0:45 |
+| **ACT 1** | The wreck - illegal cargo, captain's greed, half drown in chains | Dread | 0:45-2:30 |
+| **ACT 2** | The abandonment - boat too small, promise to return, sail away | Betrayal | 2:30-4:00 |
+| **ACT 3** | The refusal - Governor's rage, villain reveal | RAGE | 4:00-5:00 |
+| **ACT 4** | Survival - 15 years compressed, failed rescues, rafts vanish | Hope crushed | 5:00-7:30 |
+| **ACT 5** | The rescue - seven women + baby, Semiavou refuses to leave | Emotional payoff | 7:30-9:00 |
+| **OUTRO** | No consequences, island named after rescuer not survivors | Anger | 9:00-10:00 |
 
-TARGET: ~1600 words (~10-11 minutes at 150 wpm)
+TARGET: ~1600 words (~10 minutes at narration pace)
+NAMED VICTIM: Semiavou - "One who is not proud"
 
 ---
 
@@ -82,19 +83,13 @@ But the survivors weren't ready to die. Not yet.
 
 ACT 2: THE ABANDONMENT
 
-For the next two months, the French sailors worked.
+For the next two months, everyone worked.
 
-They salvaged wood from the wreck. Built a forge. Constructed tools.
+The French salvaged wood from the wreck. Built a forge. Constructed tools. And piece by piece, they built a boat.
 
-And piece by piece, they built a boat.
+The slaves worked alongside them — hauling timber, digging wells, watching the boat take shape plank by plank.
 
-The question was: who would be on it when it left?
-
-The slaves worked alongside them - hauling timber, digging wells, gathering what little food the island offered. They watched the boat take shape, plank by plank.
-
-They must have known. The boat was too small. There would never be room for everyone.
-
-But they kept working. What choice did they have?
+They must have known. The boat was too small. There would never be room for everyone. But they kept working. What choice did they have?
 
 On September 27th, 1761, the sailors loaded their supplies and climbed aboard. Every Frenchman. Every one.
 
@@ -128,17 +123,15 @@ Captain La Fargue didn't make it. He died during the crossing.
 
 The first mate, Barthélémy Castellan, went straight to the governor of the Isle of France.
 
-He told him about the wreck. About the eighty people still stranded. About the promise he had made.
-
-The same governor who had banned the slave trade now held their lives in his hands.
+He told him about the wreck. About the promise he had made. About the eighty people still stranded.
 
 The governor listened from behind his desk. His expression never changed.
 
 Then he refused.
 
-La Fargue had smuggled slaves against his direct orders. La Fargue had embarrassed him. And now La Fargue was conveniently dead - beyond punishment.
+La Fargue had smuggled slaves against his direct orders. La Fargue had embarrassed him. And now La Fargue was conveniently dead — beyond punishment.
 
-But someone had to pay for his disobedience.
+Someone had to pay.
 
 The governor would not send a ship. Not now. Not ever.
 
@@ -156,11 +149,9 @@ The first months were the hardest.
 
 No trees meant no wood for shelter. No fresh water meant digging wells in the sand and praying for rain.
 
-The survivors built huts from coral and stone - small pits dug into the ground, walled with rocks, roofed with whatever scraps they could find. They wove clothing from seabird feathers. They ate turtles, fish, and whatever birds they could catch.
+The survivors built huts from coral and stone. They wove clothing from seabird feathers. They ate turtles, fish, and whatever birds they could catch.
 
-And every single day, they kept a fire burning on the beach. A signal. A hope.
-
-Someone had to tend it through the night. Someone had to find driftwood, scraps from the wreck, anything that would burn. For fifteen years, they never let it die.
+And every single day, they kept a fire burning on the beach. Someone had to tend it through the night. For fifteen years, they never let it die.
 
 Months passed. Then years.
 
@@ -172,7 +163,7 @@ The population dwindled - disease, starvation, despair. Some simply lost the wil
 
 By the third year, only fifteen people were left alive.
 
-Year four passed. Then five. Then ten. The seasons blurred together - cyclone season, dry season, the sun rising and setting over the same empty horizon. The world forgot them. But they kept the fire burning.
+Year four passed. Then five. Then ten. The world forgot them. But they kept the fire burning.
 
 Then, in 1773 - twelve years after the wreck - a ship appeared on the horizon.
 
@@ -180,11 +171,9 @@ For the first time in over a decade, rescue had come.
 
 The survivors screamed, waved, fed the fire until smoke billowed into the sky.
 
-The ship tried to land. But the reef that had destroyed L'Utile now protected the island like a wall. The ship circled, searching for a way through.
+The ship circled the island, searching for a way through the reef.
 
-It couldn't find one.
-
-It sailed away.
+It couldn't find one. It sailed away.
 
 Imagine watching that. Twelve years of waiting. And the ship just... leaves.
 
@@ -218,7 +207,7 @@ What he found stunned him.
 
 Seven women. And an eight-month-old baby.
 
-They were thin. Weathered. Sun-darkened after fifteen years under the equatorial sky. They were dressed in woven feathers - clothes they had made themselves when the last scraps of fabric rotted away years ago.
+They were thin. Weathered. Dressed in woven feathers — clothes they had made themselves when the last fabric rotted away years ago.
 
 And the fire was still burning.
 
@@ -232,15 +221,15 @@ Captain Tromelin brought them aboard his ship and sailed for Mauritius.
 
 When they arrived, the new governor - a different man than the one who had condemned them - declared them free.
 
-They were offered passage back to Madagascar. They refused.
+They were offered passage back to Madagascar.
 
-They had spent fifteen years trying to leave one island. They weren't getting on another boat.
+Semiavou refused. She was afraid of being enslaved again.
 
-The governor took three of them into his own home: the baby, his mother, and her mother. Three generations of survivors.
+Fifteen years on that island, and she still trusted strangers less than she trusted the sand.
 
-He baptized them and gave them new names.
+The governor took three of them into his own home: Semiavou, her mother, and her baby. Three generations of survivors.
 
-The baby was called Jacques - after the captain who saved them.
+They named the baby Jacques — after the captain who saved them.
 
 ---
 
@@ -248,9 +237,7 @@ OUTRO
 
 The governor who refused to send a rescue was never punished.
 
-Barthélémy Castellan - the first mate who promised to come back - spent fifteen years fighting to make it happen. He wrote letters, petitioned every official who would meet with him, went to the press - trying to shame the government into action.
-
-Ships were sent twice. Both failed to land. By the time anyone actually rescued them, it was too late for most of them.
+Barthélémy Castellan - the first mate who promised to come back - spent fifteen years fighting to make it happen. He petitioned every official who would meet with him. By the time anyone actually rescued them, it was too late for most of them.
 
 In 1781, the philosopher Condorcet wrote about Tromelin. He called what happened there "a crime of lese-humanity" - a crime against all of mankind.
 
@@ -266,7 +253,7 @@ Today, the island is named Tromelin - after the captain who rescued them.
 
 Not after the people who kept a fire burning for fifteen years.
 
-Not after the women who outlasted everyone.
+Not after Semiavou. Not after the women who outlasted everyone.
 
 After the man who finally showed up.
 
