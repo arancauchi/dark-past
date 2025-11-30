@@ -27,7 +27,7 @@ Running document tracking channel metrics from YouTube Analytics API. Data infor
 | NASA Disaster | 9:47 | 19,889 | 50 | 34.9% | 3.4 min |
 | WW1 Tank Crew | 6:36 | 6,225 | 30 | **65.8%** | 4.3 min |
 | Kabul (Afghan) | 14:50 | 1,775 | 1,772 | 27.2% | 4.0 min |
-| Medusa (Raft) | 9:56 | 62 | 0 | - | - |
+| Medusa (Raft) | 9:56 | 77 | 77 | 35.4% | 3.5 min |
 
 **Key observation:** Shorter videos retain dramatically better (65.8% at 6min vs 27% at 14min). Sweet spot appears to be 9-11 minutes.
 
@@ -104,7 +104,7 @@ Running document tracking channel metrics from YouTube Analytics API. Data infor
 | Video | Like Rate | Subs/1K Views | Comments/1K |
 |-------|-----------|---------------|-------------|
 | WW1 Tank | **10.0%** | 0.0 | 0.0 |
-| Medusa | 16.1% | - | 16.1 |
+| Medusa | **18.2%** | - | 13.0 |
 | Kabul | 3.5% | **14.7** | 5.6 |
 | Desert | 3.5% | 11.6 | 0.0 |
 | NASA | 4.0% | 0.0 | 0.0 |
@@ -187,6 +187,29 @@ Daily breakdown showing what happens when algorithm pushes to cold audience:
 
 ---
 
+### Medusa Early Performance (New Video)
+
+| Metric | Value |
+|--------|-------|
+| Published | Nov 28, 2025 |
+| Total views | 77 |
+| Retention | 35.4% |
+| AVD | 3:32 (on 9:56 video) |
+| Like rate | 18.2% (14 likes) |
+| Comments | 1 |
+
+**Retention curve observations (from YouTube Studio):**
+
+| Timestamp | Behavior |
+|-----------|----------|
+| 0:00-0:30 | Cold open holds well ("They killed them for the wine") |
+| 0:30-1:00 | **Sharp drop** during historical setup |
+| 1:00+ | Gradual decline, no recovery |
+
+**Key observation:** Same pattern as Kabul — strong cold open, then setup loses morbid curiosity viewers. 35% retention is better than Kabul (27%) but below target (40%+). High engagement (18% like rate) suggests content quality is good once viewers commit.
+
+---
+
 ### Retention vs Length Correlation
 
 | Length Bucket | Avg Retention | Videos |
@@ -217,6 +240,11 @@ Key tables:
 
 ## Changelog
 
+- **2025-11-30**: Medusa data update
+  - Added retention data: 35.4%, 3:32 AVD
+  - Added retention curve analysis from YouTube Studio
+  - Updated engagement rates (18.2% like rate)
+  - Documented 0:30-1:00 drop pattern (matches Kabul)
 - **2025-11-29**: Initial data pull
   - 8 videos analyzed
   - Traffic sources, demographics, geography captured

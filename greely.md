@@ -48,7 +48,7 @@ Within weeks, Greely and Frederick clashed. Greely ordered him to be discharged 
 
   He was trapped. Discharged but unable to leave. A ghost in his own expedition.
 
-  For the next three years, he would hunt for the men who cast him out.
+  Three years of silence from the man who had been his closest friend
 
 ---
 
@@ -106,9 +106,9 @@ He was found face down in the snow days later. Moral plunged.
 
 Frederick watched as Greely's inner circle—the men who slept closest to him in the shelter—still had strength to move. To fish. To survive.
 
-For three years, Frederick had hunted for them. Kept them fed when no one else could.
+For three years, Frederick had stayed. Helped where he could. Asked for nothing.
 
-Now his hands were frostbitten. He couldn't hunt anymore.
+Now his hands were frostbitten. He could barely move.
 
 And no one was feeding him.
 
@@ -231,7 +231,7 @@ But the Greely survivors refused to admit what the knife marks made obvious.
 
 Why?
 
-Frederick had hunted for them for three years.
+Frederick had been cast out three years earlier. For what, no one could say.
 
 He died with nothing in his stomach but seal skin.
 

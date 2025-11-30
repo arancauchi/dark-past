@@ -222,7 +222,7 @@ This is painful — you have more story to tell. But strangers don't care. Get t
 
 **5. Build Related Video Traffic**
 
-Related/suggested viewers watch longest (4.8 min/view). Optimize for this:
+Related/suggested viewers watch longest (4.9 min/view). Optimize for this:
 - End screens linking to related videos
 - Consistent visual style (thumbnails signal "this is like that")
 - Series/playlist structure
@@ -280,7 +280,8 @@ Score potential topics on:
 ## SUCCESS METRICS
 
 ### 30-Day Goals
-- [ ] New video retention: >35% (vs 27% Kabul)
+- [x] New video retention: >35% (vs 27% Kabul) — **ACHIEVED: Medusa 35.4%**
+- [ ] New video retention: >40% (next target)
 - [ ] Subscriber traffic: <60% (vs 68% now)
 - [ ] Search traffic: >15% (vs 10% now)
 
@@ -314,6 +315,7 @@ Score potential topics on:
 | NASA | 20K | 35% | 0.0 | 10% | 18% |
 | WW1 Tank | 6K | **66%** | 0.0 | - | 37% |
 | Kabul | 1.8K | 27% | 14.7 | **93%** | 1% |
+| Medusa | 77 | 35% | - | - | - |
 
 ### Traffic Source Quality (Minutes/View)
 
@@ -549,24 +551,74 @@ The 28% who stayed past minute 2 watched to minute 13. The CONTENT is good. The 
 
 ---
 
-## MEDUSA / RAFT (62 views — new video)
+## MEDUSA / RAFT (77 views, 35% retention)
 
-### Early Observations
+### Performance Data
 
-**Potential issues:**
-1. Original title was too vague ("They Voted on Who Would Die")
-2. No clear villain — Chaumareys is distant, in lifeboats
-3. No single victim to root for — "150 people" is a number
-4. The vote is unique but abstract — group decision, not villain's cruelty
+| Metric | Value | Assessment |
+|--------|-------|------------|
+| Views | 77 | Early days |
+| Retention | **35%** | Above Kabul (27%), below target (40%+) |
+| AVD | 3:32 | On 9:56 video |
+| Like rate | 18% | Strong engagement from those who stay |
 
-**What's strong:**
-1. Cold open is solid: "They killed them for the wine"
-2. Hook density is good throughout
-3. "The woman" detail is powerful
+### Retention Curve Analysis
 
-### Key Lesson
+The retention curve reveals the **same pattern as Kabul**:
 
-**A unique angle (the vote) isn't enough if there's no clear villain to hate.**
+| Timestamp | What happens | Retention |
+|-----------|--------------|-----------|
+| 0:00-0:30 | Cold open ("They killed them for the wine") | **Holds well** |
+| 0:30-1:00 | Historical setup (Captain Chaumareys, convoy to Senegal) | **Sharp drop** |
+| 1:00+ | Story continues | Gradual decline |
+
+**The problem:** Cold open hooks viewers, then we immediately pivot to historical context and lose them. This is identical to Kabul's pattern — setup kills morbid curiosity viewers.
+
+### What's Working
+
+1. **Cold open is strong**: "They killed them for the wine" — visceral, specific, curiosity gap
+2. **Hook density is good throughout**: Once past the setup, hooks land regularly
+3. **"The woman" detail is powerful**: Humanizes the abstract death toll
+4. **18% like rate**: Those who stay are highly engaged
+
+### What's Not Working
+
+1. **Setup transition (0:30-1:00)**: After the hook, we pivot to "In 1816, France's new king needed a captain..." — morbid curiosity viewers leave
+2. **No clear villain early**: Chaumareys doesn't do anything cruel until later
+3. **No single victim**: "150 people" is a number, not a person
+4. **Villain is distant**: He's in the lifeboats, not on the raft
+
+### Key Lesson: "One More Visceral Beat"
+
+The cold open gives viewers ONE hook before pivoting to setup. That's not enough for strangers.
+
+**The fix:** Give 2-3 visceral beats before ANY historical context. Stack hooks at the front.
+
+**Current structure:**
+```
+[Hook: "They killed them for the wine"] → [Setup: "In 1816..."]
+```
+
+**Better structure:**
+```
+[Hook 1: "They killed them for the wine"]
+[Hook 2: Second visceral detail — the vote, the bodies, the knife marks]
+[Hook 3: Forward tease — "But the raft was just the beginning"]
+→ [Setup: "In 1816..."]
+```
+
+Morbid curiosity viewers need to be FED before they'll tolerate any context. One hook isn't enough. Stack them.
+
+### Comparison to Kabul
+
+| Element | Kabul | Medusa |
+|---------|-------|--------|
+| Cold open | Abstract/poetic | Strong hook |
+| 0:30-1:00 | Geopolitical setup | Historical setup |
+| Result | 27% retention | 35% retention |
+| Pattern | **Identical drop at setup** | **Identical drop at setup** |
+
+Medusa's stronger cold open bought 8 percentage points of retention. But the setup transition still kills momentum. The lesson is consistent: **delay historical context until viewers are hooked.**
 
 ---
 
@@ -583,12 +635,35 @@ Distilled from video analysis and data.
 - Use a visceral detail (knife marks, whipping, blood in snow)
 - Create a curiosity gap
 - Show, don't tell
+- **Stack 2-3 hooks before ANY historical context** (see below)
 
 **Don't:**
 - Open with abstract/poetic language
 - Open with geography or dates
 - Open with "this is the story of..."
 - Tell the viewer what to feel
+- **Pivot to setup after just one hook** (proven failure pattern)
+
+### The "One More Visceral Beat" Principle
+
+**Data-proven pattern:** Both Kabul and Medusa show identical retention drops at 0:30-1:00 — exactly when historical setup begins. One hook isn't enough to earn the right to provide context.
+
+**The problem:**
+```
+[Hook] → [Setup: "In 1816..."] → viewers leave
+```
+
+**The fix:**
+```
+[Hook 1: visceral detail]
+[Hook 2: second horror beat]
+[Hook 3: forward tease]
+→ [Setup] → viewers tolerate context because they're invested
+```
+
+Morbid curiosity viewers need to be FED before they'll tolerate any context. Medusa's strong cold open bought 8 percentage points over Kabul (35% vs 27%), but both lost viewers at the same moment: **the pivot to historical setup.**
+
+Stack hooks. Delay context. Earn the right to explain.
 
 **Ranked cold opens:**
 1. Greely — "When they exhumed the body... what they found was something far worse"
@@ -711,10 +786,10 @@ Use before recording:
 | Element | Score (1-5) | Questions |
 |---------|-------------|-----------|
 | Cold open hook | | Specific? Visceral? Curiosity gap? |
+| Hook stacking | | 2-3 hooks BEFORE any historical context? |
 | Villain clarity | | Do we hate someone by minute 2? |
 | Victim sympathy | | Do we care about someone specific? |
-| Hook density | | Hook every 60-90 seconds? |
-| Setup length | | Under 90 seconds before first horror? |
+| Hook density | | Hook every 60-90 seconds throughout? |
 | Best content placement | | Is the climax in the first half? |
 | Searchable keyword | | Would people search for this title? |
 | Title clarity | | Promises what video delivers? |
@@ -726,4 +801,11 @@ Use before recording:
 
 ## Changelog
 
+- **2025-11-30**: Alignment pass
+  - Marked 35% retention goal as ACHIEVED (Medusa 35.4%), set new 40% target
+  - Added Medusa to appendix performance table
+  - Elevated "One More Visceral Beat" principle to Part 3: Cold Opens (data-proven pattern)
+  - Updated scorecard: replaced "Setup length" with "Hook stacking" (better captures the actual problem)
+  - Fixed minor data discrepancy (related video 4.8→4.9 min/view)
+- **2025-11-30**: Updated Medusa section with retention data (35%, 3:32 AVD). Added "one more visceral beat" principle — stack 2-3 hooks before ANY historical context. Documented identical drop pattern between Kabul and Medusa at setup transition (0:30-1:00).
 - **2025-11-29**: Strategy document created from analytics data and qualitative analysis
