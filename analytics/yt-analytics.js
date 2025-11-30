@@ -518,37 +518,120 @@ async function main() {
 			const videos = await getVideoList(youtube, args.max);
 			result = { videos: [] };
 
-			for (const v of videos) {
-				console.error(`Fetching stats for: ${v.title.slice(0, 50)}...`);
-				const stats = await getVideoStats(
-					youtube,
-					youtubeAnalytics,
-					v.videoId,
-					args.days,
-				);
-				if (stats.error) {
-					console.error(`  Skipped: ${stats.error}`);
-					continue;
+			// Initialize progress state
+			const progress = videos.map((v) => ({
+				title: v.title.slice(0, 45).padEnd(45),
+				status: "pending",
+				videoId: v.videoId,
+			}));
+
+			const CONCURRENCY = 20;
+			const isTTY = process.stderr.isTTY;
+
+			// Render progress table
+			function renderProgress() {
+				if (!isTTY) return;
+
+				// Move cursor up and clear lines
+				if (progress.length > 0) {
+					process.stderr.write(`\x1b[${progress.length}A`);
 				}
 
-				// Fetch retention data
-				const retention = await getRetentionData(
-					youtube,
-					youtubeAnalytics,
-					v.videoId,
-				);
-				stats.retention = retention;
+				for (const p of progress) {
+					const statusIcon =
+						p.status === "pending" ? "○" :
+						p.status === "fetching" ? "◐" :
+						p.status === "done" ? "●" :
+						"✗";
+					const statusColor =
+						p.status === "pending" ? "\x1b[90m" :
+						p.status === "fetching" ? "\x1b[33m" :
+						p.status === "done" ? "\x1b[32m" :
+						"\x1b[31m";
+					process.stderr.write(
+						`\x1b[2K${statusColor}${statusIcon}\x1b[0m ${p.title}\n`
+					);
+				}
+			}
 
-				result.videos.push(stats);
-				if (args.save) {
-					db.saveVideoStats(stats);
-					if (retention && !retention.error) {
-						db.saveRetentionData(retention);
+			// Initial render
+			if (isTTY) {
+				for (const p of progress) {
+					process.stderr.write(`○ ${p.title}\n`);
+				}
+			}
+
+			// Process videos with concurrency limit
+			async function processVideo(index) {
+				const v = videos[index];
+				progress[index].status = "fetching";
+				renderProgress();
+
+				try {
+					const stats = await getVideoStats(
+						youtube,
+						youtubeAnalytics,
+						v.videoId,
+						args.days,
+					);
+
+					if (stats.error) {
+						progress[index].status = "error";
+						renderProgress();
+						return null;
+					}
+
+					// Fetch retention data
+					const retention = await getRetentionData(
+						youtube,
+						youtubeAnalytics,
+						v.videoId,
+					);
+					stats.retention = retention;
+
+					if (args.save) {
+						db.saveVideoStats(stats);
+						if (retention && !retention.error) {
+							db.saveRetentionData(retention);
+						}
+					}
+
+					progress[index].status = "done";
+					renderProgress();
+					return stats;
+				} catch (err) {
+					progress[index].status = "error";
+					renderProgress();
+					return null;
+				}
+			}
+
+			// Run with concurrency limit
+			const queue = [...videos.keys()];
+			const results = new Array(videos.length);
+
+			async function worker() {
+				while (queue.length > 0) {
+					const index = queue.shift();
+					if (index !== undefined) {
+						results[index] = await processVideo(index);
 					}
 				}
 			}
+
+			await Promise.all(
+				Array(Math.min(CONCURRENCY, videos.length))
+					.fill(null)
+					.map(() => worker())
+			);
+
+			result.videos = results.filter(Boolean);
+
+			if (!isTTY) {
+				console.error(`Fetched stats for ${result.videos.length} videos`);
+			}
 			if (args.save) {
-				console.error(`Saved stats for ${result.videos.length} videos`);
+				console.error(`\nSaved stats for ${result.videos.length} videos`);
 			}
 			break;
 		}

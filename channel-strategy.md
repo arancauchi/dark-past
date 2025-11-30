@@ -832,6 +832,15 @@ Before publishing, verify:
 | % viewed (10 min video) | <25% | 30-40% | 40-50% | >50% |
 | 30-sec retention | <50% | 50-60% | 60-70% | >70% |
 
+**For detailed retention data, line-by-line analysis, and methodology, see `scripts/retention.md`.**
+
+Key findings from retention analysis:
+- **"This is the dark story of..."** causes -5% to -8% drops — cut or replace with forward hook
+- **Subscriber jail:** >80% subscriber traffic means algorithm gave up — fix first 30 seconds
+- **End-of-video acceleration:** Content after climax kills retention (Apollo loses 25% in final quarter)
+- **6-minute sweet spot:** WW1 Tank (6:36) has best retention (43% end) and 100% organic traffic
+- **Suggested > Subscriber:** Related/suggested viewers watch 4.9 min vs 3.9 min for subscribers
+
 ---
 
 ## Video Scorecard

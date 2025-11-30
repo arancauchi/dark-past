@@ -1,10 +1,4 @@
-Stranded in the Arctic, They Turned on Each Other
-They Ate Him and Lied About It
-The Knife Marks Told a Different Story
-
-  - Image: Greely's face (historical photo), looking stern
-  - Text: "HE NEVER SPOKE"
-  - Mood: Mysterious, damning
+Stranded in the Arctic, They Ate Each Other | The Greely Expedition
 
 GREELY EXPEDITION - DRAFT 2
 
@@ -17,7 +11,7 @@ COLD OPEN
 
 When they exhumed the body of Frederick Kislingbury, his family expected to find a man who had starved to death in the Arctic.
 
-what they uncovered was far more horrifying/what they found would haunt their dreams
+What they found was far worse.
 
 Half his body had been stripped to the bone. His arms and legs carved clean - not by animals, but by a knife.
 
@@ -25,9 +19,9 @@ The official story was survival against impossible odds.
 
 The knife marks told a different story.
 
-This is the dark story of the Greely Expedition.
+Twenty-five men walked into the Arctic. Six walked out.
 
-As always, viewer discretion is advised.
+What happened in between would haunt their families for generations.
 
 ---
 
@@ -64,12 +58,15 @@ Wood splintered. Water rushed in. The ship was crushed and swallowed by the Arct
 
 All the supplies sank with it.
 
+They were about to face a third winter alone.
+
 Back at Fort Conger, nothing reached Greeley or his men. No ship. No rescue. No word. Two brutal years dragged by in the unending cold.
 
 Frederick proved himself to be a skilled hunter, this gained him popularity among the crew but still he could not earn the respect of Greeley. Mens faces lit up when they saw he had caught yet another seal. 
 
-But as the animals migrated for the winter, the hunters returned with empty hands and by August 1883, food supply ran low and all hope of rescue had been lost.
+But as the animals migrated for the winter, the hunters returned with empty hands.
 
+ By August 1883, hope of rescue had died. Soon, the men would follow.
 
 
 ACT 3: THE SLOW DEATH
@@ -80,7 +77,7 @@ The journey nearly killed them before they arrived.
 
 For weeks, they dragged boats across ice floes, battled freezing winds, watched the daylight disappear. When their boats became trapped, they drifted on the ice until currents finally carried them near Cape Sabine.
 
-When they finally reached the supply cache in October, what they found crushed them. - condense
+When they finally reached the supply cache in October, what they found crushed them
 
 A few crates. Enough food for a few weeks. Not nearly enough to survive the winter.
 

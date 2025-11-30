@@ -4,14 +4,7 @@ Video scripts and analysis tools for a dark history YouTube channel focused on m
 
 ## Scripts
 
-| File | Topic | Status |
-|------|-------|--------|
-| `tromelin.md` | Abandoned slaves, 15 years on island | Draft 2 (optimized) |
-| `greely.md` | Arctic expedition cannibalism | Ready to record |
-| `medusa.md` | Raft of the Medusa shipwreck | Published (35% retention) |
-| `kabul.md` | British Army of the Indus disaster | Published (27% retention) |
-| `soviets.md` | Soviet space disasters | Published (52% retention, 641K views) |
-| `boyd.md` | Boyd massacre / cannibalism | Published (34% retention, 1.6M views) |
+Located in `scripts/` directory.
 
 ## Documentation
 
@@ -21,11 +14,13 @@ Video scripts and analysis tools for a dark history YouTube channel focused on m
 | `channel-strategy.md` | Strategy, learnings, scriptwriting principles. "What to do about it." |
 | `personas.md` | Three viewer personas for script analysis. |
 | `style-guide.md` | Writing voice and rhythm guidelines. |
+| `retention.md` | Line-by-line retention analysis. What causes drops vs holds. |
 
 **When to reference each doc:**
 - **Analyzing performance / pulling data** → Read `analysis.md`
-- **Writing, editing, or ideating scripts** → Read `personas.md`, `channel-strategy.md`, and `style-guide.md`
+- **Writing, editing, or ideating scripts** → Read `personas.md`, `channel-strategy.md`, `style-guide.md`, and `retention.md`
 - **Updating after a data pull** → Update both `analysis.md` (raw data) and `channel-strategy.md` (learnings)
+- **Understanding why viewers leave** → Read `retention.md`
 
 ## Workflow
 
@@ -42,11 +37,15 @@ Video scripts and analysis tools for a dark history YouTube channel focused on m
 ```bash
 node analytics/yt-analytics.js channel --save      # Channel stats
 node analytics/yt-analytics.js videos --save       # List all videos
-node analytics/yt-analytics.js all --save          # Stats for all videos
-node analytics/yt-analytics.js video <ID> --save   # Single video stats
-node analytics/yt-analytics.js video <ID> --retention --save  # With retention curve
+node analytics/yt-analytics.js all --save          # Stats for all videos (includes retention)
+node analytics/yt-analytics.js video <ID> --save   # Single video stats (includes retention)
 ```
 
-Data stored in `analytics/data/analytics.db`
+Data stored in `analytics/data/analytics.db`. Retention curves are fetched automatically.
+
+**Retention Analyzer** — Map retention curves to script content:
+```bash
+node analytics/retention-analyzer.js <video_id> <script_path>
+```
 
 **Note:** Impressions/CTR not available via API — only in YouTube Studio.
