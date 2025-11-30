@@ -1,4 +1,4 @@
-TROMELIN ISLAND - DRAFT 3
+TROMELIN ISLAND - DRAFT 4
 
 TITLE: Abandoned Slaves Left to Die | The Forgotten Island of Tromelin
 
@@ -43,7 +43,7 @@ As always, viewer discretion is advised.
 
 ACT 1: THE WRECK
 
-In 1761, a French captain named Jean de La Fargue was given a simple mission: sail to Madagascar, pick up rice and beef, and bring it back.
+In 1761, a French captain named Jean de La Fargue took command of a ship called L'Utile — "The Useful." His mission was simple: sail to Madagascar, pick up rice and beef, and bring it back.
 
 But La Fargue saw an opportunity.
 
@@ -55,17 +55,17 @@ It was a decision that would leave eighty people to die.
 
 To avoid detection, he took a shortcut through unfamiliar waters - at night, without accurate maps.
 
-The sea was black. No moon. The only light came from the ship's lanterns, swaying with each wave.
-
 On July 31st, the ship struck a reef.
 
 The hull split open. Water rushed in.
 
 The French crew scrambled onto the deck and swam for the nearby sandbar.
 
-Below deck, the slaves heard the crash. They felt the ship lurch. Then the water came - pouring through the splintered hull, rising fast in the darkness.
+Below deck, the slaves heard the crash. They felt the ship lurch. Then the water came — pouring through the splintered hull, rising fast in the darkness.
 
-They were chained in the cargo hold. As the water climbed past their ankles, their knees, their waists, they had nowhere to go. Some tried to break free. Some screamed for help that wasn't coming.
+The hatches above them had been nailed shut.
+
+They were chained in the cargo hold. As the water climbed past their ankles, their knees, their waists, they had nowhere to go. Some clawed at the sealed hatches. Some screamed for help that wasn't coming.
 
 Half of them drowned in that hold, tangled in their chains, clawing at walls they couldn't see.
 
@@ -73,7 +73,7 @@ By morning, the survivors took stock.
 
 Around 120 French sailors had made it to shore. So had 80 of the slaves.
 
-They were stranded on an island barely a kilometer wide. A flat strip of sand and coral, baking under the tropical sun. No trees. No fresh water. No shelter. Just sand, rock, and the endless ocean in every direction.
+They were stranded on an island barely a kilometer wide. No trees. No fresh water. No shelter. Just sand, rock, and the endless ocean in every direction.
 
 And no one knew they were there.
 
@@ -93,7 +93,9 @@ They must have known. The boat was too small. There would never be room for ever
 
 On September 27th, 1761, the sailors loaded their supplies and climbed aboard. Every Frenchman. Every one.
 
-The slaves gathered on the beach to watch. The morning sun already hot on their backs.
+The slaves gathered on the beach to watch. Among them stood a young woman named Semiavou. Her name meant "one who is not proud."
+
+The morning sun was already hot on their backs.
 
 The first mate looked back at them.
 
@@ -101,15 +103,13 @@ The first mate looked back at them.
 
 Then they sailed away.
 
-The eighty men, women, and children left on the beach watched the boat grow smaller.
+The eighty people left on the beach watched the boat grow smaller.
 
 And smaller.
 
 Until it disappeared over the horizon.
 
-They had no way of knowing if the promise was real. No way of knowing if anyone would come.
-
-So they waited.
+They had no way of knowing if the promise was real. So they waited.
 
 They had no way of knowing that their fate had already been sealed - by a man who had never set foot on the island.
 
@@ -121,11 +121,11 @@ The French boat reached Madagascar four days later.
 
 Captain La Fargue didn't make it. He died during the crossing.
 
-The first mate, Barthélémy Castellan, went straight to the governor of the Isle of France.
+The first mate, Barthélémy Castellan, went straight to the governor of the Isle of France — a man named Desforges-Boucher.
 
 He told him about the wreck. About the promise he had made. About the eighty people still stranded.
 
-The governor listened from behind his desk. His expression never changed.
+The governor listened. His expression never changed.
 
 Then he refused.
 
@@ -133,7 +133,9 @@ La Fargue had smuggled slaves against his direct orders. La Fargue had embarrass
 
 Someone had to pay.
 
-The governor would not send a ship. Not now. Not ever.
+But there was another reason Desforges-Boucher wouldn't send a ship. He traded slaves himself — illegally, just like La Fargue. If those survivors were rescued, they'd flood the market. They'd cut into his profits.
+
+He let them rot to protect his investment.
 
 Barthélémy begged, wrote letters, pleaded with anyone who would listen.
 
@@ -149,25 +151,25 @@ The first months were the hardest.
 
 No trees meant no wood for shelter. No fresh water meant digging wells in the sand and praying for rain.
 
-The survivors built huts from coral and stone. They wove clothing from seabird feathers. They ate turtles, fish, and whatever birds they could catch.
+The survivors built huts from coral and stone — walls a meter thick to withstand the cyclones. In Madagascar, stone was only used to build tombs. Now they had to live in them.
+
+They wove clothing from seabird feathers. They ate turtles, fish, and whatever birds they could catch.
 
 And every single day, they kept a fire burning on the beach. Someone had to tend it through the night. For fifteen years, they never let it die.
 
-Months passed. Then years.
+Months passed. Then years. Three ships would come within sight of the island before anyone set foot on its shore.
 
 Early on, eighteen men built a raft from the remaining wreckage and set out for Madagascar. They said they would send help.
 
 They were never seen again.
 
-The population dwindled - disease, starvation, despair. Some simply lost the will to live.
+The population dwindled — disease, starvation, despair. Some simply lost the will to live.
 
-By the third year, only fifteen people were left alive.
+By the third year, only fifteen people were left alive. Semiavou was one of them.
 
 Year four passed. Then five. Then ten. The world forgot them. But they kept the fire burning.
 
 Then, in 1773 - twelve years after the wreck - a ship appeared on the horizon.
-
-For the first time in over a decade, rescue had come.
 
 The survivors screamed, waved, fed the fire until smoke billowed into the sky.
 
@@ -184,8 +186,6 @@ But this time, a sailor dove into the water and swam to the island.
 He made it to shore. Now he was stuck there too - one of them.
 
 Together, they built another raft. The sailor, three men, and three women climbed aboard and pushed off toward the horizon.
-
-The remaining survivors watched from the beach.
 
 The raft grew smaller. And smaller.
 
@@ -207,7 +207,7 @@ What he found stunned him.
 
 Seven women. And an eight-month-old baby.
 
-They were thin. Weathered. Dressed in woven feathers — clothes they had made themselves when the last fabric rotted away years ago.
+They were thin. Weathered. Dressed in woven feathers — clothes they'd made when the last fabric rotted away.
 
 And the fire was still burning.
 
@@ -215,7 +215,7 @@ Fifteen years. Every single day. They had kept it alive.
 
 Of the eighty people abandoned here, these seven women were all that remained.
 
-Every man was gone.
+Every man who had tried to leave — on the rafts, swimming for passing ships — was gone. The women who stayed, who tended the fire, who waited, were the only ones left.
 
 Captain Tromelin brought them aboard his ship and sailed for Mauritius.
 
@@ -237,7 +237,7 @@ OUTRO
 
 The governor who refused to send a rescue was never punished.
 
-Barthélémy Castellan - the first mate who promised to come back - spent fifteen years fighting to make it happen. He petitioned every official who would meet with him. By the time anyone actually rescued them, it was too late for most of them.
+Barthélémy Castellan - the first mate who promised to come back - spent fifteen years fighting to make it happen. By the time anyone actually rescued them, it was too late for most of them.
 
 In 1781, the philosopher Condorcet wrote about Tromelin. He called what happened there "a crime of lese-humanity" - a crime against all of mankind.
 
