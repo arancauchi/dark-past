@@ -1,4 +1,6 @@
-TROMELIN ISLAND - DRAFT 1
+TROMELIN ISLAND - DRAFT 2
+
+TITLE: Abandoned Slaves Left to Die | The Forgotten Island of Tromelin
 
 ---
 
@@ -20,11 +22,19 @@ TARGET: ~1600 words (~10-11 minutes at 150 wpm)
 
 COLD OPEN
 
-In 1761, a ship sank in the Indian Ocean. The survivors washed up on a tiny island.
+In 1761, eighty people were abandoned on a tiny island in the Indian Ocean.
 
-One man knew where they were. He left them to die for someone else's crime.
+They weren't passengers. They were cargo.
 
-This is the dark story of Tromelin Island.
+When the ship sank, half of them drowned in the cargo hold — chained together, clawing at walls they couldn't see as the water rose past their waists, their chests, their mouths.
+
+The survivors made it to shore. Built a fire. Waited for rescue.
+
+One man knew exactly where they were. He refused to send a ship — not because he couldn't, but because he wanted someone to pay for a dead man's crime.
+
+They would wait fifteen years.
+
+Every man who tried to leave that island disappeared. The women who stayed were the only ones who survived.
 
 As always, viewer discretion is advised.
 
@@ -39,6 +49,8 @@ But La Fargue saw an opportunity.
 On Madagascar, he loaded 160 men, women, and children into the cargo hold. Slaves - to be sold illegally at the next port.
 
 The governor of the Isle of France had banned the slave trade. La Fargue didn't care. The profit was too good.
+
+It was a decision that would leave eighty people to die.
 
 To avoid detection, he took a shortcut through unfamiliar waters - at night, without accurate maps.
 
