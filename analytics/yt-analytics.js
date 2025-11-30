@@ -105,12 +105,30 @@ function formatDate(date) {
 	return date.toISOString().split("T")[0];
 }
 
-function getDates(days) {
+function getDates(days, customStart = null, customEnd = null) {
+	// If custom dates provided, use those
+	if (customStart && customEnd) {
+		return {
+			startDate: customStart,
+			endDate: customEnd,
+		};
+	}
+
 	const end = new Date();
 	const start = new Date();
 	start.setDate(start.getDate() - days);
 	return {
 		startDate: formatDate(start),
+		endDate: formatDate(end),
+	};
+}
+
+function getDateRangeFromPublish(publishedAt) {
+	// Get dates from video publish date to today
+	const published = new Date(publishedAt);
+	const end = new Date();
+	return {
+		startDate: formatDate(published),
 		endDate: formatDate(end),
 	};
 }
@@ -207,9 +225,9 @@ async function getVideoList(youtube, maxResults) {
 	return videos;
 }
 
-async function getVideoStats(youtube, youtubeAnalytics, videoId, days) {
+async function getVideoStats(youtube, youtubeAnalytics, videoId, days, customStart = null, customEnd = null) {
 	const channelId = await getChannelId(youtube);
-	const { startDate, endDate } = getDates(days);
+	const { startDate, endDate } = getDates(days, customStart, customEnd);
 
 	// Basic video info
 	const videoInfo = await youtube.videos.list({
@@ -405,11 +423,15 @@ Commands:
   videos               List recent videos
   video <id>           Get stats for specific video
   all                  Get stats for all recent videos
+  backfill [id]        Backfill historical data from publish date
+                       If no ID given, backfills all videos
 
 Options:
   --days <n>           Number of days to look back (default: 28)
   --max <n>            Max videos to list/fetch (default: 20)
   --save               Save data to SQLite database (data/analytics.db)
+  --start <date>       Custom start date (YYYY-MM-DD)
+  --end <date>         Custom end date (YYYY-MM-DD)
   --help               Show this help
 
 Examples:
@@ -418,6 +440,15 @@ Examples:
   node yt-analytics.js videos --max 10
   node yt-analytics.js video dQw4w9WgXcQ
   node yt-analytics.js all --max 5 --days 7 --save
+
+  # Backfill all videos from their publish dates
+  node yt-analytics.js backfill --save
+
+  # Backfill specific video from publish date
+  node yt-analytics.js backfill dQw4w9WgXcQ --save
+
+  # Backfill with custom date range
+  node yt-analytics.js backfill --start 2023-01-01 --end 2023-12-31 --save
 `);
 }
 
@@ -428,6 +459,8 @@ function parseArgs(args) {
 		days: 28,
 		max: 20,
 		save: false,
+		startDate: null,
+		endDate: null,
 	};
 
 	for (let i = 0; i < args.length; i++) {
@@ -442,9 +475,13 @@ function parseArgs(args) {
 			parsed.max = parseInt(args[++i], 10);
 		} else if (arg === "--save") {
 			parsed.save = true;
+		} else if (arg === "--start") {
+			parsed.startDate = args[++i];
+		} else if (arg === "--end") {
+			parsed.endDate = args[++i];
 		} else if (!parsed.command) {
 			parsed.command = arg;
-		} else if (parsed.command === "video" && !parsed.videoId) {
+		} else if ((parsed.command === "video" || parsed.command === "backfill") && !parsed.videoId) {
 			parsed.videoId = arg;
 		}
 	}
@@ -633,6 +670,75 @@ async function main() {
 			if (args.save) {
 				console.error(`\nSaved stats for ${result.videos.length} videos`);
 			}
+			break;
+		}
+
+		case "backfill": {
+			// Backfill historical data from publish date (or custom range)
+			let videosToBackfill = [];
+
+			if (args.videoId) {
+				// Single video
+				const videoInfo = await youtube.videos.list({
+					part: "snippet",
+					id: args.videoId,
+				});
+				if (videoInfo.data.items.length) {
+					videosToBackfill.push({
+						videoId: args.videoId,
+						title: videoInfo.data.items[0].snippet.title,
+						publishedAt: videoInfo.data.items[0].snippet.publishedAt,
+					});
+				}
+			} else {
+				// All videos
+				videosToBackfill = await getVideoList(youtube, args.max);
+			}
+
+			result = { videos: [] };
+
+			for (const v of videosToBackfill) {
+				const { startDate, endDate } = args.startDate && args.endDate
+					? { startDate: args.startDate, endDate: args.endDate }
+					: getDateRangeFromPublish(v.publishedAt);
+
+				console.error(`Backfilling ${v.title.slice(0, 40)}... (${startDate} to ${endDate})`);
+
+				try {
+					const stats = await getVideoStats(
+						youtube,
+						youtubeAnalytics,
+						v.videoId,
+						args.days,
+						startDate,
+						endDate,
+					);
+
+					if (!stats.error) {
+						const retention = await getRetentionData(
+							youtube,
+							youtubeAnalytics,
+							v.videoId,
+						);
+						stats.retention = retention;
+
+						if (args.save) {
+							db.saveVideoStats(stats);
+							if (retention && !retention.error) {
+								db.saveRetentionData(retention);
+							}
+						}
+						result.videos.push(stats);
+						console.error(`  ✓ Saved ${stats.dailyStats.rows.length} days of data`);
+					} else {
+						console.error(`  ✗ ${stats.error}`);
+					}
+				} catch (err) {
+					console.error(`  ✗ Error: ${err.message}`);
+				}
+			}
+
+			console.error(`\nBackfilled ${result.videos.length} videos`);
 			break;
 		}
 
