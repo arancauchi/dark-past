@@ -748,25 +748,80 @@ Stack hooks. Delay context. Earn the right to explain.
 
 ## Title Strategy
 
-**High-performing words:**
-- CANNIBALS / CANNIBALISM
+### The Title + Thumbnail Equation
+
+Titles and thumbnails work as a **package**. One can be soft if the other is hard.
+
+| Combo | Works? | Example |
+|-------|--------|---------|
+| Hard title + Soft thumbnail | ✓ | Boyd: "CANNIBALS" title carries soft thumbnail |
+| Soft title + Hard thumbnail | ✓ | Thoughty2: vague title, screaming bloody face thumbnail |
+| Hard title + Hard thumbnail | ✓ | Maximum impact, may feel clickbaity |
+| Soft title + Soft thumbnail | ✗ | Nothing sells the horror — viewers scroll past |
+
+**If your thumbnail is subtle, your title must do the work.**
+
+### Big Channels vs Small Channels
+
+Big channels (100K+ subs) can afford curiosity-gap titles:
+- "These Men Were Doomed When They Stepped on This Raft" (Thoughty2, 542K views)
+- "Left STRANDED On Wooden Raft In the Ocean" (Scary Interesting, 923K views)
+
+**Why this works for them:**
+- Subscribers click based on brand trust
+- Algorithm already knows their audience
+- Thumbnail does the horror work
+
+**Why this doesn't work for you (yet):**
+- 68% subscriber dependency = need NEW viewers
+- Need search traffic to escape the loop
+- Algorithm doesn't know your audience yet
+
+**Small channels need searchable keywords.** Boyd proves it: "CANNIBALS" drives 23% search traffic.
+
+### The Boyd Formula
+
+Boyd's title structure is proven:
+```
+[Visceral Hook] + [Searchable Context]
+"Eaten By CANNIBALS | The Boyd Massacre"
+```
+
+- First half: emotional/visceral hook
+- Pipe separator: clean break
+- Second half: searchable term + genre signal
+
+**Apply to other videos:**
+```
+"Shipwreck Survivors Turned Cannibal | Raft of the Medusa"
+"Stranded in the Arctic, They Ate Each Other | The Greely Expedition"
+```
+
+### High-Performing Words
+
+Proven search terms for this niche:
+- CANNIBALS / CANNIBALISM (Boyd = 23% search traffic)
 - MASSACRE
-- SURVIVED
-- ABANDONED
+- SURVIVED / SURVIVAL
+- ABANDONED / STRANDED
+- SHIPWRECK
 - Numbers (150 People, Only 15 Survived)
 
-**Weak approaches:**
-- Pure curiosity gap with no context
-- Generic ("The Dark Story of X")
-- Too long
+### Weak Approaches
 
-**Best formula:**
-`[Hook element] + [Context] + [Stakes]`
+- **Pure curiosity gap**: "Then Came the Vote" — intriguing but not searchable
+- **Generic**: "The Dark Story of X" — no hook
+- **Too long**: >60 chars gets truncated in search results
+- **Soft title + soft thumbnail**: nothing sells the click
 
-Examples:
-- "Eaten By CANNIBALS | The Boyd Massacre"
-- "150 People Abandoned on a Raft — Then Came the Vote"
-- "Stranded in the Arctic — They Ate Each Other to Survive"
+### Title Checklist
+
+Before publishing, verify:
+- [ ] Contains at least one searchable horror word?
+- [ ] Clear genre signal (shipwreck, expedition, disaster)?
+- [ ] Under 60 characters (or key info front-loaded)?
+- [ ] Works with thumbnail as a package?
+- [ ] Would a stranger understand what they're getting?
 
 ---
 
@@ -801,6 +856,12 @@ Use before recording:
 
 ## Changelog
 
+- **2025-11-30**: Title strategy expansion
+  - Added "Title + Thumbnail Equation" — soft/hard pairings
+  - Added "Big Channels vs Small Channels" — why curiosity-gap titles don't work for small channels
+  - Added "The Boyd Formula" — proven title structure
+  - Added title checklist for pre-publish verification
+  - Updated Medusa title example to "Shipwreck Survivors Turned Cannibal | Raft of the Medusa"
 - **2025-11-30**: Alignment pass
   - Marked 35% retention goal as ACHIEVED (Medusa 35.4%), set new 40% target
   - Added Medusa to appendix performance table
