@@ -409,7 +409,6 @@ Commands:
 Options:
   --days <n>           Number of days to look back (default: 28)
   --max <n>            Max videos to list/fetch (default: 20)
-  --retention          Include retention curve data (video command)
   --save               Save data to SQLite database (data/analytics.db)
   --help               Show this help
 
@@ -418,8 +417,7 @@ Examples:
   node yt-analytics.js channel --days 90
   node yt-analytics.js videos --max 10
   node yt-analytics.js video dQw4w9WgXcQ
-  node yt-analytics.js video dQw4w9WgXcQ --retention --ctr
-  node yt-analytics.js all --max 5 --days 7
+  node yt-analytics.js all --max 5 --days 7 --save
 `);
 }
 
@@ -429,7 +427,6 @@ function parseArgs(args) {
 		videoId: null,
 		days: 28,
 		max: 20,
-		retention: false,
 		save: false,
 	};
 
@@ -443,8 +440,6 @@ function parseArgs(args) {
 			parsed.days = parseInt(args[++i], 10);
 		} else if (arg === "--max") {
 			parsed.max = parseInt(args[++i], 10);
-		} else if (arg === "--retention") {
-			parsed.retention = true;
 		} else if (arg === "--save") {
 			parsed.save = true;
 		} else if (!parsed.command) {
@@ -500,7 +495,7 @@ async function main() {
 				args.days,
 			);
 
-			if (args.retention && !result.error) {
+			if (!result.error) {
 				result.retention = await getRetentionData(
 					youtube,
 					youtubeAnalytics,
@@ -535,9 +530,21 @@ async function main() {
 					console.error(`  Skipped: ${stats.error}`);
 					continue;
 				}
+
+				// Fetch retention data
+				const retention = await getRetentionData(
+					youtube,
+					youtubeAnalytics,
+					v.videoId,
+				);
+				stats.retention = retention;
+
 				result.videos.push(stats);
 				if (args.save) {
 					db.saveVideoStats(stats);
+					if (retention && !retention.error) {
+						db.saveRetentionData(retention);
+					}
 				}
 			}
 			if (args.save) {
