@@ -6,64 +6,35 @@ They Voted on Who Would Die
   - Text overlay: "DAY 7" in corner (white text, black outline)
   - Color grade: Desaturated blues/grays, maybe one pop of red (blood or clothing)
 
-INTRO 
+INTRO
 
 On the seventh day, the survivors held a vote.
 
-Twenty-seven people remained on the raft. 
+Twenty-seven people remained on the raft.
 
 Twelve were too weak to survive.
 
-So the others seized them - one by one - and threw them into the sea. Not for food. They had plenty of corpses for that.
+So the others seized them — one by one — and threw them into the sea. Not for food. They had plenty of corpses for that.
 
 They killed them for the wine.
 
-This is the dark story of the Raft of the Medusa.
+By then, the deck was slick with blood. They'd been eating the dead for days. Bodies lay in piles, half-butchered in the sun, swarming with flies.
 
-As always, viewer discretion is advised.
+Fifteen would survive. A hundred and thirty-five would not.
 
----
+But they weren't shipwrecked. They were abandoned.
 
-ACT 1: THE WRECK
-
-One man put them on that raft. In 1816, France's new king needed a captain for a convoy bound for Senegal. He chose Hugues Duroy de Chaumareys - a nobleman who hadn't commanded a ship in twenty years. That was enough to earn him the flagship Medusa.
-
-His officers knew he was incompetent. He made sure they paid for it.
-
-135 people would die for that pride.
-
-When the new governor of Senegal pressured him to take a shortcut - a dangerous route hugging the African coast - Chaumareys agreed. But he refused to let his officers navigate. Instead, he handed the job to a passenger - a philosopher who had visited Africa once and never steered a ship in his life.
-
-He mistook a cloud for the coastline, and steered them straight into the most dangerous reef in the region.
-
-On July 2nd, the Medusa struck the Bank of Arguin with a shuddering crack.
-
-Over 400 people were stranded 30 miles off shore, with only six lifeboats.
+One man put them on that raft. And when it became a burden, he cut the ropes and rowed away.
 
 ---
 
-ACT 2: ABANDONED
+ACT 1: ABANDONED
 
-The crew tried everything to free the ship. They dumped cargo, emptied barrels and threw the heaviest items overboard.
+His name was Hugues Duroy de Chaumareys — a captain who hadn't commanded a ship in twenty years. He ran the Medusa onto a reef thirty miles from shore. Four hundred people, six lifeboats, and a makeshift raft that was never meant to carry anyone.
 
-The Medusa rose a few inches. 
+The officers and aristocrats took the boats. Everyone else — a hundred and fifty soldiers, sailors, and one woman — was told to board the raft.
 
-It wasn’t  enough.
-
-The ship's cannons might have made the difference but Chaumareys refused. He valued his guns more than his men.
-
-Instead, he ordered them to build a crude platform of lashed masts and deck planks, barely twenty metres long to hold the supplies.
-
-It was never meant to carry people.
-
-But on the third night trapped on the reef, a storm struck. Thunderous waves and a howling wind filled the air. The hull began to split. Chaumareys panicked and gave the order to abandon ship.
-
-The governor, the officers, and the aristocrats climbed into the lifeboats.
-
-Everyone else - 150 soldiers, sailors, and one woman - was told to board the hastily built raft. Seventeen men refused. They took their chances with the wreck.
-
-By the time the last one climbed on, they were standing waist-deep in the ocean, the salt stinging their skin, the raft groaning under the weight
-
+By the time the last one climbed on, they were standing waist-deep in the ocean, the salt stinging their skin, the raft groaning under the weight.
 
 The plan was for the lifeboats to tow them thirty miles to shore. But within hours, the men in the lifeboats were exhausted. The raft was too heavy.
 
@@ -71,15 +42,15 @@ If it sank, all those desperate people would swarm the lifeboats.
 
 Chaumareys didn't hesitate. Cut the ropes.
 
-One by one, the lifelines were severed - each snap a death sentence for the people on the raft.
+One by one, the lifelines were severed — each snap a death sentence for the people on the raft.
 
 A captain is supposed to be the last man off his ship. Chaumareys was in the first boat. As they rowed away, he sat with his back to the raft. He never looked back. Not once.
 
 The people on the raft watched in confusion as the boats grew smaller and smaller.
 
-Then confusion turned to panic. 
+Then confusion turned to panic.
 
-Men screamed curses at the lifeboats and begged them to return, but the distance only grew. 
+Men screamed curses at the lifeboats and begged them to return, but the distance only grew.
 
 Some leapt into the waves and tried to swim after them, only to vanish within seconds, swallowed by the indifferent sea.
 
@@ -89,7 +60,7 @@ They'd been left to die.
 
 ---
 
-ACT 3: PANIC
+ACT 2: PANIC
 
 As night fell, another storm rolled in.
 
@@ -139,7 +110,7 @@ Others chewed on leather straps, linen shirts, even the cork from empty bottles.
 
 ---
 
-ACT 4: HUNGER
+ACT 3: HUNGER
 
 In most survival stories, cannibalism comes after weeks of starvation. 
 
@@ -175,7 +146,7 @@ On the raft of the Medusa, stealing wine was a crime worse than eating the dead.
 
 ---
 
-ACT 5: THE VOTE
+ACT 4: THE VOTE
 
 On the seventh day, the officers gathered in the center of the raft.
 They looked at the 27 people still alive and assessed the situation.
@@ -211,7 +182,7 @@ But they had crossed a line that could never be uncrossed.
 
 ---
 
-ACT 6: RESCUE
+ACT 5: RESCUE
 
 For six more days, the fifteen survivors drifted.
 
