@@ -238,8 +238,72 @@ Key tables:
 
 ---
 
+---
+
+## Data Pull: 2025-12-21
+
+### Greely Expedition (New Video)
+
+| Metric | Value |
+|--------|-------|
+| Published | Dec 19, 2025 |
+| Length | 10:18 |
+| Views (48h) | 193 |
+| Retention | **47.3%** |
+| AVD | 4:52 |
+| CTR | 3.8% (settled from 7.9% early) |
+| Browse traffic | 77% |
+| Impressions | 2.8k |
+
+**Retention curve observations (from YouTube Studio):**
+
+| Timestamp | Retention | Behavior |
+|-----------|-----------|----------|
+| 0:00-0:30 | 71% | Cold open holds — "How do you survive?" |
+| 0:30-2:00 | 71% → 50% | **Steep drop** during historical setup (same pattern as Kabul/Medusa) |
+| 2:00-9:00 | 50% → 40% | **Very flat** — committed viewers stay |
+| 9:00-10:18 | 40% → 33% | Normal end drop |
+
+**Key observation:** Best retention curve shape on the channel. 71% at 0:30 beats Kabul (66%). Flat mid-section proves content quality. The 0:30-2:00 setup bleed is the consistent bottleneck across all recent videos.
+
+**Traffic source breakdown:**
+
+| Source | % |
+|--------|---|
+| Browse features | 77% |
+| Notifications | 12% |
+| Playlists | 6% |
+| Channel pages | 2% |
+| Suggested | 2% |
+
+**Key observation:** Algorithm pushed hard (77% browse) but CTR settled at 3.8%, limiting impression scaling. Suggested traffic minimal — video not being recommended alongside others.
+
+---
+
+### Viral Growth Pattern Discovery (Boyd Backfill)
+
+Backfilled data reveals Boyd's 1.6M video had a slow start:
+
+| Day | Daily Views | Cumulative |
+|-----|-------------|------------|
+| 1 | 12 | 12 |
+| 4 | 38 | 127 |
+| 5 | 697 | 824 |
+| 12 | 6,040 | 11,678 |
+| 17 | 7,925 | 35,670 |
+| 29 | 26,457 | 148,189 |
+
+**Key observation:** Only 0.1% of Boyd's 1.6M views came from the first week. The video was under 100 views by day 4, didn't pop until day 5, didn't EXPLODE until day 12. Early plateau ≠ dead video.
+
+---
+
 ## Changelog
 
+- **2025-12-21**: Greely data pull
+  - Added Greely performance data (193 views, 47.3% retention, 4:52 AVD)
+  - Added retention curve analysis showing 71% at 0:30, flat mid-section
+  - Added traffic source breakdown (77% browse)
+  - Added Boyd viral growth pattern from backfill (slow burn discovery)
 - **2025-11-30**: Medusa data update
   - Added retention data: 35.4%, 3:32 AVD
   - Added retention curve analysis from YouTube Studio

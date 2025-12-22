@@ -8,13 +8,13 @@ STORY STRUCTURE
 
 | Act | Beat | Emotion | Time |
 |-----|------|---------|------|
-| **COLD OPEN** | Stacked hooks: cargo, drowning, villain tease, men/women mystery | Dread + mystery | 0:00-0:45 |
-| **ACT 1** | The wreck - illegal cargo, captain's greed, half drown in chains | Dread | 0:45-2:30 |
-| **ACT 2** | The abandonment - boat too small, promise to return, sail away | Betrayal | 2:30-4:00 |
-| **ACT 3** | The refusal - Governor's rage, villain reveal | RAGE | 4:00-5:00 |
-| **ACT 4** | Survival - 15 years compressed, failed rescues, rafts vanish | Hope crushed | 5:00-7:30 |
-| **ACT 5** | The rescue - seven women + baby, Semiavou refuses to leave | Emotional payoff | 7:30-9:00 |
-| **OUTRO** | No consequences, island named after rescuer not survivors | Anger | 9:00-10:00 |
+| **COLD OPEN** | Abandoned. Promised rescue. No one came. | Mystery | 0:00-0:15 |
+| **ACT 1** | The wreck - drowning in chains, stranded | Dread | 0:15-1:15 |
+| **ACT 2** | The abandonment - boat too small, promise, sail away | Betrayal | 1:15-2:30 |
+| **ACT 3** | The refusal - Governor's rage, villain reveal | RAGE | 2:30-3:30 |
+| **ACT 4** | Survival - years compressed, failed rescues, rafts vanish | Hope crushed | 3:30-6:00 |
+| **ACT 5** | The rescue - seven women + baby, fire still burning | Emotional payoff | 6:00-7:30 |
+| **OUTRO** | No consequences, island named after rescuer not survivors | Anger | 7:30-8:30 |
 
 TARGET: ~1600 words (~10 minutes at narration pace)
 NAMED VICTIM: Semiavou - "One who is not proud"
@@ -23,21 +23,11 @@ NAMED VICTIM: Semiavou - "One who is not proud"
 
 COLD OPEN
 
-In 1761, eighty people were abandoned on a tiny island in the Indian Ocean.
+In 1761, eighty slaves were abandoned on a deserted island.
 
-They weren't passengers. They were cargo.
+Their French captors promised to send rescue.
 
-When the ship sank, half of them drowned in the cargo hold — chained together, clawing at walls they couldn't see as the water rose past their waists, their chests, their mouths.
-
-The survivors made it to shore. Built a fire. Waited for rescue.
-
-One man knew exactly where they were. He refused to send a ship — not because he couldn't, but because he wanted someone to pay for a dead man's crime.
-
-They would wait fifteen years.
-
-Every man who tried to leave that island disappeared. The women who stayed were the only ones who survived.
-
-As always, viewer discretion is advised.
+No one came.
 
 ---
 

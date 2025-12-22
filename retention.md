@@ -15,8 +15,9 @@ Every video loses 25-35% of viewers in the first 30 seconds. This is unavoidable
 | Burke | 71.4% | 57.3% | -14% (gradual) |
 | Soviets | 70.8% | 54.0% | -17% (gradual) |
 | Boyd | 73.6% | 57.3% | -16% (gradual) |
+| **Greely** | **71%** | **50%** | **-21%** (moderate cliff) |
 
-**Kabul is the outlier.** It drops 25% between 0:30 and 1:00 vs ~15% for others. This is the "geopolitical context cliff" — too much setup before horror.
+**Kabul is the outlier.** It drops 25% between 0:30 and 1:00 vs ~15% for others. This is the "geopolitical context cliff" — too much setup before horror. Greely shows a similar pattern but less severe — the 0:30-2:00 setup bleed costs 21% vs Kabul's 25%, suggesting the historical setup section is tighter but still the weak point.
 
 ### Content That Causes Drops
 
@@ -37,6 +38,8 @@ Every video loses 25-35% of viewers in the first 30 seconds. This is unavoidable
 | Villain cruelty (witnessed) | Boyd whipping | +1.1% |
 | Timer/countdown tension | "only 20 seconds to locate the valve" | Flat (holds) |
 | Listicle fresh start | Each new Soviet disaster | Creates new floor |
+| Character betrayal arc | Greely casting out Kislingbury | Flat (holds) |
+| Moral ambiguity/mystery | "Why didn't they admit to cannibalism?" | Flat (holds) |
 
 ### The Listicle Advantage
 
@@ -146,6 +149,54 @@ The subversion causes drops but filters to engaged audience.
 
 ---
 
+### Greely (Best Retention Shape - 47.3% retention)
+
+**Cold open (0:00-0:30):**
+| Time | Retention | Content |
+|------|-----------|---------|
+| 0:00 | 100% | "In 1884, six emaciated men staggered out of the Arctic" |
+| 0:15 | ~85% | "The food had run out years ago" |
+| 0:30 | **71%** | "How do you survive three years when there's nothing left to eat?" |
+
+Best 30-second retention on the channel. Hook establishes mystery (survival question) rather than just horror.
+
+**The Setup Cliff (0:30-2:00):**
+| Time | Retention | Drop | Content |
+|------|-----------|------|---------|
+| 0:30 | 71% | — | Hook ends, context begins |
+| 1:00 | 50% | **-21%** | Historical setup (1881, Lady Franklin Bay, Fort Conger) |
+| 2:00 | 50% | -0% | Kislingbury character introduction |
+
+Same pattern as Kabul/Medusa — steep drop during historical context. However, Greely's drop is contained to 0:30-2:00 rather than continuing.
+
+**The Flat Middle (2:00-9:00):**
+| Time | Retention | Drop/min | Content |
+|------|-----------|----------|---------|
+| 2:00 | 50% | — | "But within days, the grief caught up with Frederick" |
+| 4:00 | 47% | -1.5%/min | Supply ships fail, ice crushes second ship |
+| 6:00 | 44% | -1.5%/min | Starvation begins, Cross dies |
+| 8:00 | 42% | -1%/min | Rice's death, morale collapses |
+| 9:00 | 40% | -2%/min | Charles Henry execution |
+
+**This is the flattest mid-section on the channel.** Only -10% across 7 minutes (~1.4%/min). Proves content quality is high — viewers who make it past setup stay.
+
+**End drop (9:00-10:18):**
+| Time | Retention | Drop | Content |
+|------|-----------|------|---------|
+| 9:00 | 40% | — | Rescue |
+| 9:45 | 36% | -4% | Aftermath, knife marks discovery |
+| 10:18 | 33% | -3% | Outro, "Some secrets are buried twice" |
+
+Normal end drop (-7% in final 78 seconds). Story ends at rescue; aftermath section is tight.
+
+**Key insight:** Greely proves the content is not the problem. 71% at 0:30 → 40% at 9:00 is excellent mid-video retention. The bottleneck is:
+1. The 0:30-2:00 setup cliff (loses 21%)
+2. CTR limiting impressions (3.8%)
+
+The flat middle section should be the model for future videos. Character-driven tension (Kislingbury's arc, Greely's inner circle favoritism, the execution) holds attention without relying on constant horror.
+
+---
+
 ## Recommendations
 
 1. **Don't bury horror.** Kabul's -26% cliff happens because horror is teased but context comes first. Lead with visceral detail.
@@ -159,6 +210,10 @@ The subversion causes drops but filters to engaged audience.
 5. **Limit context.** Kabul loses 9% during geopolitical explanation. Front-load one sentence of context, drip the rest.
 
 6. **End at the climax.** Apollo loses 14% during the aftermath section. When the story is clearly over, viewers leave.
+
+7. **Character arcs flatten curves.** Greely's flat middle section (~1.4%/min drop rate) is driven by Kislingbury's betrayal arc and the "inner circle" mystery. Viewers stay to see how character dynamics resolve, not just for horror beats.
+
+8. **Compress the setup.** The 0:30-2:00 setup bleed is consistent across Kabul, Medusa, and Greely. Front-load only essential context — drip the rest as the story unfolds.
 
 ---
 
@@ -235,12 +290,15 @@ Shorter videos retain better and get pushed by algorithm. Consider testing more 
 | Video | Duration | 25% | 50% | 75% | End |
 |-------|----------|-----|-----|-----|-----|
 | WW1 Tank | 6:36 | 68.6% | 63.4% | 59.1% | 43.0% |
+| **Greely** | **10:18** | **~55%** | **~47%** | **~42%** | **33%** |
 | Burke | 12:52 | 48.9% | 44.1% | 40.9% | 33.6% |
 | Soviets | 10:36 | 52.1% | 38.7% | 32.4% | 25.3% |
 | Massacre | 14:44 | 42.9% | 36.8% | 33.6% | 24.0% |
 | Boyd | 11:28 | 46.2% | 42.0% | 33.9% | 22.2% |
 | Apollo | 9:47 | 47.6% | 46.1% | 42.0% | 17.1% |
 | Kabul | 14:50 | 30.1% | 25.4% | 21.8% | 15.6% |
+
+**Note:** Greely has the second-best end retention (33%) after WW1 Tank, and the flattest decay curve among 10+ minute videos.
 
 ---
 

@@ -177,6 +177,48 @@ UK viewers watch longest (4.7 min avg). British military/maritime history resona
 ### 4. Older Male Demo
 56% of viewers are 55+. They're patient, loyal, and engaged. Don't abandon them — but recognize algorithm tests with younger viewers who bounce faster.
 
+### 5. Greely Retention Proves Content Quality
+Greely achieved 47.3% retention — best recent video. Flat mid-section curve (2:00-9:00) proves viewers who commit will stay. Content quality has reached "good enough." The bottleneck has shifted from retention to CTR/packaging.
+
+---
+
+## THE SLOW BURN PATTERN (Dec 2025 Discovery)
+
+Boyd's backfilled growth data reveals viral videos don't always explode immediately:
+
+| Day | Daily Views | Cumulative |
+|-----|-------------|------------|
+| 1   | 12          | 12         |
+| 4   | 38          | 127        |
+| 5   | 697         | 824        |
+| 12  | 6,040       | 11,678     |
+| 29  | 26,457      | 148,189    |
+
+**Only 0.1% of Boyd's 1.6M views came from the first week.**
+
+The video was under 100 views by day 4, didn't pop until day 5, didn't EXPLODE until day 12. Massive 20k+ daily views came almost a month in.
+
+**Implication:** Early plateau (like Greely's 48-hour flatline) doesn't mean a video is dead. YouTube can pick videos back up weeks or months later. Don't panic at slow starts.
+
+---
+
+## CTR AS GATEKEEPER (Dec 2025 Discovery)
+
+Greely proved that excellent retention (47%) doesn't guarantee reach.
+
+**The formula:**
+```
+Impressions × CTR = Clicks
+Clicks × Retention = Watch Time
+Watch Time = What YouTube optimizes for
+```
+
+With 3.8% CTR and 47% retention, Greely was leaving watch time on the table at the CTR stage. YouTube gave 2.8k impressions but only ~100 clicks.
+
+**For small channels:** CTR is often the bottleneck because you don't have brand recognition driving clicks. Boyd went viral despite mediocre retention (29.8%) because enough people clicked to let the algorithm see the watch time signal.
+
+**The lever to pull:** Thumbnail/title testing BEFORE upload is now higher ROI than script optimization. Content quality has reached diminishing returns.
+
 ---
 
 ## STRATEGIC RECOMMENDATIONS
@@ -281,9 +323,9 @@ Score potential topics on:
 
 ### 30-Day Goals
 - [x] New video retention: >35% (vs 27% Kabul) — **ACHIEVED: Medusa 35.4%**
-- [ ] New video retention: >40% (next target)
-- [ ] Subscriber traffic: <60% (vs 68% now)
-- [ ] Search traffic: >15% (vs 10% now)
+- [x] New video retention: >40% (next target) — **ACHIEVED: Greely 47.3%**
+- [x] Subscriber traffic: <60% (vs 68% now) — **ACHIEVED: Greely 77% browse (only 12% notification)**
+- [ ] Search traffic: >15% (vs 10% now) — Not yet measurable for Greely
 
 ### 90-Day Goals
 - [ ] One video with >50% retention
@@ -619,6 +661,100 @@ Morbid curiosity viewers need to be FED before they'll tolerate any context. One
 | Pattern | **Identical drop at setup** | **Identical drop at setup** |
 
 Medusa's stronger cold open bought 8 percentage points of retention. But the setup transition still kills momentum. The lesson is consistent: **delay historical context until viewers are hooked.**
+
+---
+
+## GREELY EXPEDITION (193 views, 47.3% retention)
+
+### Performance Data
+
+| Metric | Value | Assessment |
+|--------|-------|------------|
+| Views (48h) | 193 | Below Kabul spike, above Medusa |
+| Retention | **47.3%** | Best on channel (recent) |
+| AVD | 4:52 | 47% of 10:18 |
+| CTR | 3.8% | Bottleneck — limited impression scaling |
+| Browse traffic | 77% | Algorithm pushed hard |
+| Impressions | 2.8k | Plateaued after 24h |
+
+### Retention Curve Analysis
+
+| Timestamp | Retention | Content |
+|-----------|-----------|---------|
+| 0:00-0:30 | 71% | Cold open: "How do you survive three years?" |
+| 0:30-2:00 | 71% → 50% | **Setup bleed** — Ellesmere Island, Fort Conger, ships |
+| 2:00-9:00 | 50% → 40% | **Very flat** — Kislingbury arc holds viewers |
+| 9:00-10:18 | 40% → 33% | End drop — knife marks reveal |
+
+**Same pattern as Kabul/Medusa:** Steep drop 0:30-2:00, flat thereafter. But Greely's 71% at 0:30 beats Kabul's 66% — stronger cold open.
+
+### What Worked
+
+**1. Single emotional anchor (Frederick Kislingbury)**
+- Wife died → joined to outrun grief → discharged by best friend
+- Trapped, useful but never forgiven → madness → death
+- Empty stomach while others caught shrimp = visceral injustice
+- Makes abstract death toll (19 of 25) feel personal
+
+**2. Conspiracy/mystery element**
+- "Inner circle" theory creates villain through implication
+- Greely never explicitly cruel, but we suspect betrayal
+- "Why did they deny it?" — question sustains engagement
+- Delayed reveal of knife marks works as twist
+
+**3. Hook density maintained**
+- "But not everyone died of starvation."
+- "A single gunshot echoed across the ice."
+- "Some secrets are buried twice."
+- Forward hooks every 60-90 seconds as recommended
+
+**4. Specific visceral details**
+- "Bullet to the face at Antietam"
+- "Nothing but seal skin in stomach"
+- "Arms and legs stripped — not torn, but CUT"
+
+### What Didn't Work
+
+**1. Cold open soft compared to potential**
+Script opens with: "How do you survive three years when there's nothing left to eat?"
+Could open with: "When they unwrapped his body, they found knife marks on his bones."
+Curiosity gap vs. visceral horror — visceral wins for strangers.
+
+**2. Best content buried**
+Knife marks reveal comes at minute 8 (~Act 6).
+Only 40% of viewers see it.
+Frame structure would front-load this.
+
+**3. Same 0:30-2:00 bleed pattern**
+Steep drop during setup (Ellesmere Island, Fort Conger, ship details).
+Identical to Kabul and Medusa — this is the consistent failure mode.
+
+**4. CTR ceiling**
+Started at 7.9% (subscriber clicks), settled at 3.7%.
+Thumbnail change mid-flight didn't improve it.
+Neither illustration nor visceral image broke through.
+
+### Key Lesson
+
+**Greely proves emotional anchors and mystery elements can compensate for structural weakness.** Kislingbury's arc carried viewers through setup that would have killed a weaker script.
+
+But the 0:30-2:00 drop is still there — frame structure would have prevented it.
+
+**More importantly:** Content quality has reached diminishing returns. 47% retention is excellent. The bottleneck is now CTR/packaging. Future effort should focus on thumbnail/title testing BEFORE upload, not script refinement.
+
+### Scorecard Assessment
+
+| Element | Score | Notes |
+|---------|-------|-------|
+| Cold open hook | 3/5 | Curiosity gap, but not visceral |
+| Hook stacking | 4/5 | Good hooks, but after setup |
+| Villain clarity | 4/5 | Implied through "inner circle", not explicit |
+| Victim sympathy | **5/5** | Kislingbury arc is best on channel |
+| Hook density | 4/5 | Good throughout |
+| Best content placement | 3/5 | Knife marks at minute 8 |
+| Searchable keyword | 4/5 | "ate each other", "expedition" |
+| Title clarity | 4/5 | Clear promise delivered |
+| **Total** | **31/40** | Above minimum (30), below target (35) |
 
 ---
 
